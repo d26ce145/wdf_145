@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "studentId": "ST202601",
+    "name": "Harsh Prajapati",
+    "email": "d26ce145@charusat.edu.in",
+    "course": "Computer Engineering",
+    "year": "2nd Year",
+    "cgpa": 8.5
+  },
+  {
+    "id": 2,
+    "studentId": "ST202602",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@studenthub.com",
+    "course": "IT Engineering",
+    "year": "2nd Year",
+    "cgpa": 8.8
+  },
+  {
+    "id": 3,
+    "studentId": "ST202603",
+    "name": "Diya Mehta",
+    "email": "diya.mehta@studenthub.com",
+    "course": "AI & ML",
+    "year": "1st Year",
+    "cgpa": 9.1
+  },
+  {
+    "id": 4,
+    "studentId": "ST202604",
+    "name": "Rohan Verma",
+    "email": "rohan.verma@studenthub.com",
+    "course": "Computer Engineering",
+    "year": "3rd Year",
+    "cgpa": 7.9
+  },
+  {
+    "id": 5,
+    "studentId": "ST202605",
+    "name": "Ananya Shah",
+    "email": "ananya.shah@studenthub.com",
+    "course": "IT Engineering",
+    "year": "2nd Year",
+    "cgpa": 8.4
+  },
+  {
+    "id": 6,
+    "studentId": "ST202606",
+    "name": "Kabir Joshi",
+    "email": "kabir.joshi@studenthub.com",
+    "course": "Mechanical Engineering",
+    "year": "4th Year",
+    "cgpa": 8.0
+  },
+  {
+    "id": 7,
+    "studentId": "ST202607",
+    "name": "Isha Trivedi",
+    "email": "isha.trivedi@studenthub.com",
+    "course": "Civil Engineering",
+    "year": "1st Year",
+    "cgpa": 8.2
+  },
+  {
+    "id": 8,
+    "studentId": "ST202608",
+    "name": "Devansh Desai",
+    "email": "devansh.desai@studenthub.com",
+    "course": "Computer Engineering",
+    "year": "2nd Year",
+    "cgpa": 8.7
+  },
+  {
+    "id": 9,
+    "studentId": "ST202609",
+    "name": "Khushi Dave",
+    "email": "khushi.dave@studenthub.com",
+    "course": "AI & ML",
+    "year": "3rd Year",
+    "cgpa": 9.3
+  },
+  {
+    "id": 10,
+    "studentId": "ST202610",
+    "name": "Yash Parmar",
+    "email": "yash.parmar@studenthub.com",
+    "course": "IT Engineering",
+    "year": "4th Year",
+    "cgpa": 7.6
+  },
+  {
+    "id": 11,
+    "studentId": "ST202611",
+    "name": "Pooja Bhatt",
+    "email": "pooja.bhatt@studenthub.com",
+    "course": "Computer Engineering",
+    "year": "1st Year",
+    "cgpa": 8.9
+  },
+  {
+    "id": 12,
+    "studentId": "ST202612",
+    "name": "Siddharth Rao",
+    "email": "siddharth.rao@studenthub.com",
+    "course": "Mechanical Engineering",
+    "year": "2nd Year",
+    "cgpa": 7.8
+  },
+  {
+    "id": 13,
+    "studentId": "ST202613",
+    "name": "Neha Gupta",
+    "email": "neha.gupta@studenthub.com",
+    "course": "IT Engineering",
+    "year": "3rd Year",
+    "cgpa": 8.3
+  },
+  {
+    "id": 14,
+    "studentId": "ST202614",
+    "name": "Aryan Solanki",
+    "email": "aryan.solanki@studenthub.com",
+    "course": "Civil Engineering",
+    "year": "2nd Year",
+    "cgpa": 7.5
+  },
+  {
+    "id": 15,
+    "studentId": "ST202615",
+    "name": "Tanvi Choksi",
+    "email": "tanvi.choksi@studenthub.com",
+    "course": "AI & ML",
+    "year": "2nd Year",
+    "cgpa": 9.0
+  }
+]
+

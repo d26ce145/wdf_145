@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Aarav Patel",
+        "email": "aarav@gmail.com",
+        "course": "Computer Engineering",
+        "age": 20
+    },
+    {
+        "id": 2,
+        "name": "Riya Shah",
+        "email": "riya@gmail.com",
+        "course": "IT Engineering",
+        "age": 21
+    },
+    {
+        "id": 3,
+        "name": "Dev Mehta",
+        "email": "dev@gmail.com",
+        "course": "Computer Engineering",
+        "age": 19
+    }
+]

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard - StudentHub</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <div class="portal-title-bar">
+        <h1>StudentHub Portal</h1>
+        <p>CHARUSAT - Faculty of Technology & Engineering</p>
+    </div>
+
+    <header>
+        <a href="home.html" class="logo-container">
+            <img src="../images/logo.png" alt="StudentHub Logo" width="48" height="48">
+            <span class="brand-text">StudentHub</span>
+        </a>
+
+        <button id="hamburgerBtn" class="hamburger-btn" aria-label="Toggle Navigation">☰</button>
+
+        <nav id="mainNav">
+            <ul>
+                <li><a href="admin.html" class="active">Admin Dashboard</a></li>
+                <li><a href="home.html">Public Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="events.html">Events</a></li>
+                <li><a href="login.html">Login</a></li>
+            </ul>
+        </nav>
+
+        <div class="header-actions">
+            <button id="themeToggleBtn" class="theme-toggle-btn">🌙 Dark Mode</button>
+        </div>
+    </header>
+
+    <main>
+        <div class="page-header">
+            <h2>Administrator Portal</h2>
+            <p>Static Semantic HTML5 Template for Admin Management (Practical 2).</p>
+        </div>
+
+        <div class="grid-4">
+            <div class="stat-card">
+                <div class="stat-icon">👥</div>
+                <div class="stat-info">
+                    <h4>Total Students</h4>
+                    <div class="stat-number">21</div>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">📅</div>
+                <div class="stat-info">
+                    <h4>Events Active</h4>
+                    <div class="stat-number">6</div>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">🔐</div>
+                <div class="stat-info">
+                    <h4>Accounts</h4>
+                    <div class="stat-number">5</div>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon">🎟️</div>
+                <div class="stat-info">
+                    <h4>Registrations</h4>
+                    <div class="stat-number">5</div>
+                </div>
+            </div>
+        </div>
+
+        <section class="card" style="margin-top: 25px;">
+            <h3>Quick Admin Operations</h3>
+            <p style="color: var(--text-muted); margin-top: 6px;">
+                For interactive dynamic operations, access the PHP full-stack portal via XAMPP.
+            </p>
+            <div class="flex-row" style="margin-top: 15px;">
+                <a href="../manage_students.php" class="btn btn-primary btn-sm">Manage Students (CRUD)</a>
+                <a href="../manage_events.php" class="btn btn-secondary btn-sm">Manage Events (CRUD)</a>
+                <a href="../admin_dashboard.php" class="btn btn-primary btn-sm">Open Live Admin PHP Dashboard</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 StudentHub Portal. Charotar University of Science and Technology (CHARUSAT).</p>
+    </footer>
+
+    <script src="../js/main.js"></script>
+</body>
+</html>

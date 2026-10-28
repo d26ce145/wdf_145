@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development Bootcamp",
+    "category": "Workshop",
+    "date": "2026-10-25",
+    "venue": "Auditorium Hall A",
+    "seats": 60,
+    "description": "Learn semantic HTML5, modern CSS layouts, and full-stack PHP with MySQL."
+  },
+  {
+    "id": 2,
+    "title": "Student Innovation Expo",
+    "category": "Exhibition",
+    "date": "2026-11-05",
+    "venue": "Campus Grounds",
+    "seats": 120,
+    "description": "Annual exhibition of student projects, hardware models, and web prototypes."
+  },
+  {
+    "id": 3,
+    "title": "AI & Machine Learning Seminar",
+    "category": "Seminar",
+    "date": "2026-11-12",
+    "venue": "Seminar Hall 2",
+    "seats": 80,
+    "description": "Expert session on real-world applications of machine learning in industry."
+  },
+  {
+    "id": 4,
+    "title": "CodeSprint 24h Hackathon",
+    "category": "Competition",
+    "date": "2026-11-20",
+    "venue": "Computer Lab 3",
+    "seats": 100,
+    "description": "Inter-college coding challenge solving smart campus and student life problems."
+  },
+  {
+    "id": 5,
+    "title": "Career & Placement Guidance",
+    "category": "Seminar",
+    "date": "2026-12-02",
+    "venue": "Main Auditorium",
+    "seats": 150,
+    "description": "Session covering resume building, interview preparation, and internships."
+  },
+  {
+    "id": 6,
+    "title": "Annual Sports Meet",
+    "category": "Sports",
+    "date": "2026-12-15",
+    "venue": "Sports Complex",
+    "seats": 200,
+    "description": "Tournaments in cricket, volleyball, badminton, table tennis, and athletics."
+  },
+  {
+    "id": 7,
+    "title": "Cyber Security Awareness Talk",
+    "category": "Seminar",
+    "date": "2026-12-22",
+    "venue": "Hall C",
+    "seats": 90,
+    "description": "Essential web security practices: SQL injection prevention, hashing, and CSRF."
+  },
+  {
+    "id": 8,
+    "title": "Cloud Computing Fundamentals",
+    "category": "Workshop",
+    "date": "2027-01-08",
+    "venue": "Lab 5",
+    "seats": 50,
+    "description": "Introduction to cloud hosting, virtual servers, and scalable architectures."
+  },
+  {
+    "id": 9,
+    "title": "Robotics & IoT Showcase",
+    "category": "Exhibition",
+    "date": "2027-01-16",
+    "venue": "Workshop Hall",
+    "seats": 75,
+    "description": "Demonstrations of Arduino, Raspberry Pi, and automated smart systems."
+  },
+  {
+    "id": 10,
+    "title": "UI/UX Design Masterclass",
+    "category": "Workshop",
+    "date": "2027-01-24",
+    "venue": "Design Studio",
+    "seats": 45,
+    "description": "Design thinking, wireframing, color theory, and responsive mobile interfaces."
+  },
+  {
+    "id": 11,
+    "title": "Database Optimization Workshop",
+    "category": "Workshop",
+    "date": "2027-02-02",
+    "venue": "Computer Lab 2",
+    "seats": 55,
+    "description": "Practical database indexing, normalization, queries, and connection pools."
+  },
+  {
+    "id": 12,
+    "title": "Campus Cultural Fest",
+    "category": "Cultural",
+    "date": "2027-02-14",
+    "venue": "Open Air Theatre",
+    "seats": 300,
+    "description": "Annual celebrations with dance, music, drama, and fine arts competitions."
+  },
+  {
+    "id": 13,
+    "title": "Startup & Entrepreneurship Talk",
+    "category": "Seminar",
+    "date": "2027-02-22",
+    "venue": "Conference Hall",
+    "seats": 70,
+    "description": "Inspiring talks from student startup founders and incubation mentors."
+  },
+  {
+    "id": 14,
+    "title": "Git & GitHub Workflow Hands-on",
+    "category": "Workshop",
+    "date": "2027-03-05",
+    "venue": "Lab 1",
+    "seats": 60,
+    "description": "Master branch management, merge requests, commits, and collaborative coding."
+  },
+  {
+    "id": 15,
+    "title": "Mobile App Development Workshop",
+    "category": "Workshop",
+    "date": "2027-03-18",
+    "venue": "Computer Lab 4",
+    "seats": 50,
+    "description": "Build responsive cross-platform web apps with HTML, CSS, and JavaScript."
+  }
+]

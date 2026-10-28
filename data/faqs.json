@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "category": "General",
+    "question": "What is StudentHub?",
+    "answer": "StudentHub is a centralized college portal designed to manage academic information, campus events, attendance, and student services in one place."
+  },
+  {
+    "id": 2,
+    "category": "Account",
+    "question": "How do I create an account on StudentHub?",
+    "answer": "Go to the Register page, fill in your name, college email, mobile number, course, year, and password, then click Register."
+  },
+  {
+    "id": 3,
+    "category": "Account",
+    "question": "What should I do if I forget my password?",
+    "answer": "Contact the college system administrator or visit the campus support desk with your Student ID card."
+  },
+  {
+    "id": 4,
+    "category": "Events",
+    "question": "How can I register for college events?",
+    "answer": "Log in to your account, visit the Events page, select the event you are interested in, and click Register for Event."
+  },
+  {
+    "id": 5,
+    "category": "Events",
+    "question": "Can I participate in events organized by other departments?",
+    "answer": "Yes, unless the event description specifically restricts participation to a specific department or semester."
+  },
+  {
+    "id": 6,
+    "category": "Academic",
+    "question": "Where can I view my attendance record?",
+    "answer": "Log in to your student dashboard to see your subject-wise and overall attendance percentage."
+  },
+  {
+    "id": 7,
+    "category": "Academic",
+    "question": "How often is attendance updated?",
+    "answer": "Attendance is updated daily by faculty members following scheduled laboratory and lecture sessions."
+  },
+  {
+    "id": 8,
+    "category": "General",
+    "question": "Is StudentHub mobile friendly?",
+    "answer": "Yes, StudentHub is built with responsive CSS Flexbox and Grid layouts that adapt seamlessly to mobile, tablet, and desktop devices."
+  },
+  {
+    "id": 9,
+    "category": "Account",
+    "question": "How do I update my profile details?",
+    "answer": "Go to the Profile page from the top navigation bar to view and update your contact information."
+  },
+  {
+    "id": 10,
+    "category": "Support",
+    "question": "How do I submit feedback or report a bug?",
+    "answer": "Visit the Feedback page, choose a rating, enter your comments, and submit the form to notify the administration."
+  },
+  {
+    "id": 11,
+    "category": "Security",
+    "question": "How does StudentHub protect my password?",
+    "answer": "StudentHub hashes passwords using PHP's password_hash() with strong bcrypt algorithms before saving to the database."
+  },
+  {
+    "id": 12,
+    "category": "Security",
+    "question": "What is the session timeout limit?",
+    "answer": "For security reasons, your login session expires automatically after 15 minutes of inactivity."
+  },
+  {
+    "id": 13,
+    "category": "Support",
+    "question": "Where is the campus support office located?",
+    "answer": "The StudentHub support office is located on the ground floor of the FTE Building, CHARUSAT Campus."
+  },
+  {
+    "id": 14,
+    "category": "Academic",
+    "question": "Can I view the academic calendar and timetable here?",
+    "answer": "Yes, announcements regarding timetable and academic calendars are posted under the announcements section on the dashboard."
+  },
+  {
+    "id": 15,
+    "category": "General",
+    "question": "How do I toggle dark mode?",
+    "answer": "Click the Dark/Light Mode button on the top right navigation bar. Your preference is saved in your browser localStorage."
+  }
+]
